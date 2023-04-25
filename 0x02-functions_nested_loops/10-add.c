@@ -1,13 +1,10 @@
-#include "main.h"
-
 /**
- * add - Entry point
- * @a: int a
- * @b: int b
- * Description: adds two integers
- * Return: result of a+b
+ * add - adds two integers
+ * @a: first integer
+ * @b: second integer
+ *
+ * Return: sum of a and b
  */
-
 int add(int a, int b)
 {
 	return (a + b);
